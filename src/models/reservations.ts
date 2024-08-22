@@ -1,7 +1,7 @@
-import { Appointment } from "../types";
+import { Reservation } from "../types";
 
 
-export const appointments: Appointment[] = [
+export const reservations: Reservation[] = [
   {
     id: "7b2d3ecb-c411-4c2b-9db1-5e6913a81285",
     providerId: "d7d22d1d-dcc6-483a-87a3-cd88eaf05d00",

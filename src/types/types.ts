@@ -6,7 +6,7 @@ export interface User {
     isProvider?: boolean
 }
 
-export interface Appointment {
+export interface Reservation {
     id: string;
     providerId: string;
     userId: string | null;
