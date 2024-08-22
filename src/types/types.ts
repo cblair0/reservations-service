@@ -12,7 +12,7 @@ export interface Reservation {
     userId: string | null;
     startTime: Date;
     endTime: Date;
-    reserved: boolean;
+    reserved: Date | null;
     confirmed: boolean;
     reservationExp?: Date;
 }

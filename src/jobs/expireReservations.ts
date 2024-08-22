@@ -1,1 +1,0 @@
-//expire unconfirmed reservations older than 30 minutes
